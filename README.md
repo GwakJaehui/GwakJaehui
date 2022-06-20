@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaehui0922@gmail.com)](mailto:jaehui0922@gmail.com)
 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCT5ZBuTpxN3TUqcaqe1-GJg)]([https://www.youtube.com/c/kyleschool](https://www.youtube.com/channel/UCT5ZBuTpxN3TUqcaqe1-GJg))
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCT5ZBuTpxN3TUqcaqe1-GJg)](https://www.youtube.com/channel/UCT5ZBuTpxN3TUqcaqe1-GJg)
